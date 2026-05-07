@@ -1,11 +1,11 @@
 {
-    "display_name": "隐藏助手",
+    "display_name": "隐藏助手（调试版）",
     "loading_order": 14,
     "requires": [],
     "optional": [],
     "js": "index.js",
     "css": "style.css",
     "author": "uhhhh15",
-    "version": "3.9.0",
+    "version": "3.9.1",
     "description": "高效批量隐藏/显示消息的工具"
 }
